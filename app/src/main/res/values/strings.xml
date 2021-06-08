@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">21</string>
+    <string name="help">The Player who does NOT reach the number 21 WINS the game.</string>
+    <string name="vs" translatable="false">1 VS 1</string>
+    <string name="aieasy">against AI (easy)</string>
+    <string name="aihard">against AI (hard)</string>
+    <string name="home" translatable="false">Home</string>
+    <string name="howtoplay">How to play?</string>
+    <string name="contentdescr">A violet circle</string>
+    <string name="winner">Winner</string>
+    <string name="looser">You lost</string>
+    <string name="back">back</string>
+    <string name="zero" translatable="false">0</string>
+</resources>

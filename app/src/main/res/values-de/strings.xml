@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">21</string>
+    <string name="back">zurück</string>
+    <string name="contentdescr">ein violetter Kreis</string>
+    <string name="help">Der Spieler, der NICHT die Zahl 21 erreicht, gewinnt das Spiel.</string>
+    <string name="howtoplay">Wie spielt man?</string>
+    <string name="winner">Sieger</string>
+    <string name="looser">Verloren</string>
+    <string name="aieasy">"Gegen KI (einfach)"</string>
+    <string name="aihard">Gegen KI (schwer)</string>
+</resources>
